@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
 setup(
   name='tflarrivals', 
   packages=['tflarrivals'],
-  version='0.1',
+  version='0.1.1',
   license='MIT',
   description='Library to fetch arrival times from TfL Unified API',
   long_description=long_description,
