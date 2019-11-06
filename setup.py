@@ -13,7 +13,7 @@ setup(
   author='Giancarlo Grasso',
   author_email='ggrasso.dev@gmail.com',
   url='https://github.com/Giannie/tflarrivals',
-  download_url='https://github.com/Giannie/tflarrivals/archive/tflarrivals-v_0-1.tar.gz',
+  download_url='https://github.com/Giannie/tflarrivals/archive/tflarrivals-v_0-1-1.tar.gz',
   keywords=['tfl', 'transport', 'london'],
   install_requires=[
           'requests',
