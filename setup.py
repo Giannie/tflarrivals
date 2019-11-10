@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name='tflarrivals', 
   packages=['tflarrivals'],
-  version='0.1.1',
+  version='0.1.2',
   license='MIT',
   description='Library to fetch arrival times from TfL Unified API',
   author='Giancarlo Grasso',
