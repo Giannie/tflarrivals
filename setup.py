@@ -1,19 +1,15 @@
 from distutils.core import setup
 
-with open("README.md", "r") as f:
-  long_description = f.read()
-
 setup(
   name='tflarrivals', 
   packages=['tflarrivals'],
   version='0.1.1',
   license='MIT',
   description='Library to fetch arrival times from TfL Unified API',
-  long_description=long_description,
   author='Giancarlo Grasso',
   author_email='ggrasso.dev@gmail.com',
   url='https://github.com/Giannie/tflarrivals',
-  download_url='https://github.com/Giannie/tflarrivals/archive/tflarrivals-v_0-1-1.tar.gz',
+  download_url='https://github.com/Giannie/tflarrivals/archive/tflarrivals-v_0-1-2.tar.gz',
   keywords=['tfl', 'transport', 'london'],
   install_requires=[
           'requests',
